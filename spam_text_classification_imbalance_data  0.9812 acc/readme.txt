@@ -1,6 +1,3 @@
-
----
-
 # Spam Text Classification
 
 This project is focused on classifying text messages as either 'spam' or 'ham' (not spam) using machine learning techniques. The dataset used consists of text messages labeled as spam or ham. The model is built using TensorFlow and Keras, and it leverages an LSTM (Long Short-Term Memory) neural network to perform the classification.
@@ -212,5 +209,3 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
